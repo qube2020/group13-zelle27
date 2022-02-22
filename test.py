@@ -1,1 +1,4 @@
 DevOps
+Python
+Sql
+Java
